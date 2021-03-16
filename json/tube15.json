@@ -1,0 +1,19 @@
+{
+        "data":{
+            "type":"25",
+            "splits":[
+
+            ],
+            "versionCode":15,
+            "versionName":"1.1.4",
+            "enabled":true,
+            "outputFile":"app-debug.apk",
+            "fullName":"debug",
+            "baseName":"com.musicwcl.downloader.pro",
+            "dirName":""
+        },
+        "path":"app-debug.apk",
+        "another":{
+
+        }
+    }
