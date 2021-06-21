@@ -6,7 +6,7 @@
             ],
             "versionCode":15,
             "versionName":"1.1.4",
-            "enabled":true,
+            "enabled":false,
             "outputFile":"",
             "fullName":"debug",
             "baseName":"com.musicwcl.downloader.pro",
