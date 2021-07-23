@@ -9,7 +9,7 @@
             "enabled":false,
             "outputFile":"",
             "fullName":"debug",
-            "baseName":"com.musicwcl.downloader",
+            "baseName":"com.musicwcl.downloader.pro",
             "dirName":""
         },
         "path":"com.musicwcl.downloader.pro&&com.musicpro.downloader.qswr",
