@@ -1,15 +1,4 @@
 
-
-> 注意：此开源项目仅做学习交流使用，如果你觉得不错，对你有帮助，欢迎点个fork，star，follow，也可以帮忙分享给你更多的朋友，这是给我们最大的动力与支持。
-
-### Contact Me
-
-- Github: github.com/hefuyicoder
-- Email: hefuyicoder@gmail.com
-
-### License
-
-```
 MIT License
 
 Copyright (c) 2017 Hefuyi
